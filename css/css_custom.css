@@ -1,0 +1,107 @@
+.text-alinear-center{
+    text-align: center;
+}
+
+.justify-content-centrar{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.justify-content-fin{
+    display: flex;
+    justify-content: end;
+    align-content: flex-end;
+}
+
+.nav-bar-dark-azul{
+    color: rgb(16, 16, 119);
+}
+
+.imagen-circular img{
+    width: 1.5em;
+    height: 1.5rem;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.imagen-circular-s img{
+    width: 2.9rem;
+    height: 3.2rem;
+    object-fit: cover;
+}
+
+.imagen-circular-secondary {
+    margin: 2, 0, 2, 0;
+}
+
+.imagen-circular-secondary img{
+    width: 3em;
+    height: 3rem;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.imagen-circular-p img{
+    width: 8.5rem;
+    height: 8.5rem;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.imagen-cuadrada-p img{
+    width: 8.5rem;
+    height: 8.5rem;
+    object-fit: cover;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.margin-lr-2{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.margin-tb-2{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.sin-margin-padding{
+    margin: 0;
+    padding: 0;
+}
+
+.sin-radius{
+    border-radius: 0%;
+}
+
+.gb-light-green-logo{
+    background-color: #ECF4F6;
+}
+
+.gb-green-logo{
+    background-color: #2F9D54;
+}
+
+.gb-samll-green-logo{
+    background-color: #3AC260;
+}
+
+.gb-dark-green-logo{
+    background-color: #223F45;
+}
+
+.gb-light-greens-logo{
+    background-color: #C8F0DE;
+}
+
+.color-logo-dark-green-logo{
+    color: #223F45;
+}
+
+.btn-green-logo{
+    background-color: #2F9D54;
+}
